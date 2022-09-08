@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM ghcr.io/linuxserver/baseimage-alpine:3.15
 LABEL Maintainer="Stanislav Khromov <stanislav+github@khromov.se>" \
       Description="Tiny PHP 7.4 container using multi-threaded PHP Built-in web server"
 
